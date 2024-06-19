@@ -1,2 +1,2 @@
 # Robotic-Constructability
-ringing Building Constructability Knowledge into Optimization
+bringing Building Constructability Knowledge into Optimization
